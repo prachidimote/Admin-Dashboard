@@ -3,7 +3,7 @@ import FeaturedInfo from '../../components/featuredInfo/FeaturedInfo'
 import Charts from '../../components/charts/Charts'
 import {userData} from '../../dummyData';
 import WidgetSm from '../../components/widgetSm/WidgetSm';
-import WidgetLg from '../../components/widgetLg/WidgetLg';
+import WidgetLg from '../../components/All/widgetLg/WidgetLg';
 
 function Home() {
   return (
